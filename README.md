@@ -24,8 +24,8 @@ requirements.txt
 
 1. Clone this repository to your local machine:
     ```sh
-    git clone https://github.com/your-repo/intelxapi-fastapi.git
-    cd intelxapi-fastapi
+    git clone https://github.com/d7cky/intel-d7cky.git
+    cd intel-d7cky
     ```
 
 2. Configure the Dockerfile and docker-compose.yml to build and run the application:
@@ -39,8 +39,8 @@ requirements.txt
 
 1. Clone this repository to your local machine:
     ```sh
-    git clone https://github.com/your-repo/intelxapi-fastapi.git
-    cd intelxapi-fastapi
+    git clone https://github.com/d7cky/intel-d7cky.git
+    cd intel-d7cky
     ```
 
 2. Install the required libraries:
