@@ -9,8 +9,6 @@ This project is a Intel d7cky application hat utilizes the `intelxapi` library t
 /index.html
 /static
 /searchWorker.js
-/intelxapi
-(contents of the intelxapi repository)
 Dockerfile
 main.py
 requirements.txt
@@ -48,9 +46,9 @@ requirements.txt
     pip install -r requirements.txt
     ```
 
-3. Install the `intelxapi` library from the local repository:
+3. Install the `intelx` library:
     ```sh
-    pip install -e ./intelxapi
+    pip install "intelx @ git+https://github.com/IntelligenceX/SDK#subdirectory=Python"
     ```
 
 4. Run the application:
